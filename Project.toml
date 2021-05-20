@@ -1,0 +1,4 @@
+name = "DrWatsonHelpers"
+uuid = "7fdc9ab4-4ff2-4741-8c67-1b227ee32b66"
+authors = ["Jan Kuhfeld <jan.kuhfeld@rub.de>"]
+version = "0.1.0"
