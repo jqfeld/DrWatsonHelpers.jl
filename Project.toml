@@ -4,5 +4,8 @@ authors = ["Jan Kuhfeld <jan.kuhfeld@rub.de>"]
 version = "0.1.0"
 
 [deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
